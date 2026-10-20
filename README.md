@@ -1,4 +1,4 @@
-# Stellar Customer Bot
+# EOD Customer Bot
 
 A Discord bot that lists unique customers with paid Shopify orders from a chosen date and time. The `/customers` response is private to the person who runs it.
 
