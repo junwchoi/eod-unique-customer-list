@@ -1,0 +1,16 @@
+{
+  "name": "stellar-customer-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Discord bot that lists unique customers with paid orders since a date and time",
+  "scripts": {
+    "start": "node bot.mjs"
+  },
+  "engines": {
+    "node": ">=20.12"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
